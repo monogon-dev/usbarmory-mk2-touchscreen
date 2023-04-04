@@ -7,7 +7,8 @@ This is a touchscreen expansion board for [USB armory MKII](https://github.com/u
 - dimensions: 10.29 mm * 32.77 mm
 
 ## Bill of materials
-2x 56k OHM 1% 1/8W 0603
+- [R1, R2] 2x 56k OHM 1% 1/8W 0603
+- [U1] Wurth 632712000011
 
 ## Backlight
 You'll need to drive the backlight pin (BLK) yourself through either a pull-up or a pull-down resistor installed on the backside.
